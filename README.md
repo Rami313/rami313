@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **cloud native projects**
 
-- 🤝 I’m looking for help with **Full-stack**
+- 🤝 I'm open to collaborating on **React and Node.js projects**
 
 - 📝 I regularly write articles on [https://ramivault.com/](https://ramivault.com/)
 
